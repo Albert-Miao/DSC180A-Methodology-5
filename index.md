@@ -1,6 +1,7 @@
 # DSC180A-Methodology-5
 
 Albert Miao, amiao@ucsd.edu
+
 B17, Hao Zhang
 
 1) **What is the most interesting topic covered in your domain this quarter?**
